@@ -1,0 +1,4 @@
+dist/
+backend/venv/
+frontend/node_modules/
+.idea
